@@ -11,7 +11,7 @@ Due to the large |η|, FCal1 is important in determining the location of the ver
 and positrons.
 The goal of the study is to use GEANT4 to simulate the FCal1 detector and the detecting process. By using the data from
 the simulation, the timing resolution of FCal1 can be calculated. For a detail description of the simulation, please look
-at the report `Studying the timing resolution of FCal1 with a detailed simulation using Geant4.pdf`
+at the report [`Studying the timing resolution of FCal1 with a detailed simulation using Geant4.pdf`](https://github.com/maxwellcui/FCal1_GEANT4_simulation/blob/master/Studying%20the%20timing%20resolution%20of%20FCal1%20with%20a%20detailed%20simulation%20using%20Geant4.pdf)
 
 ## Before compiling
 GEANT4 uses CMake to generate Makefile. Therefore, a CMakeLists and the propriate paths of filesare important. 
