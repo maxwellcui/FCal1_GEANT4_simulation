@@ -14,8 +14,8 @@ the simulation, the timing resolution of FCal1 can be calculated. For a detail d
 at the report [`Studying the timing resolution of FCal1 with a detailed simulation using Geant4.pdf`](https://github.com/maxwellcui/FCal1_GEANT4_simulation/blob/master/Studying%20the%20timing%20resolution%20of%20FCal1%20with%20a%20detailed%20simulation%20using%20Geant4.pdf)
 
 ## Before compiling
-GEANT4 uses CMake to generate Makefile. Therefore, a CMakeLists and the propriate paths of filesare important. 
-The flags for cmake may vary in different machine and also under differnet desired results. 
+GEANT4 uses CMake to generate Makefile. Therefore, a CMakeLists and the propriate paths of files are important. 
+The flags for cmake may vary on different machine and also under differnet circumstances of desired results. 
 
 ## Compile
 In the directory of `CMakeLists.txt`, create a new directory called `build`:
